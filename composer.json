@@ -1,0 +1,12 @@
+{
+    "name": "stevenklar/myvtc-api-example",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Steven Klar",
+            "email": "steven.klar@mayflower.de"
+        }
+    ]
+}
